@@ -1,0 +1,25 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Exempt the /admin folder from URL rewriting
+RewriteRule ^admin($|/) - [L]
+
+# RewriteRule for rewriting URLs ending with .php to the corresponding PHP file.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [L]
+
+# RewriteRule for rewriting URLs ending with .html to the corresponding HTML file.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.html [L]
+
+# RewriteRule for rewriting URLs to a file named 1.htm in a directory named con_tent.
+RewriteRule ^([^\.]+)$ $con_tent/1.htm [L]
+
+# RewriteRule for rewriting URLs ending with .js to the corresponding JavaScript file.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.js [L]
+
+# RewriteRule for rewriting URLs ending with .css to the corresponding CSS file.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.css [L]
+</IfModule>
