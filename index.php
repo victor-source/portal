@@ -16,11 +16,11 @@
                                 </span> 
                                 Connecting Communities. 
                                 <span class="position-relative" style="background-color: #FFC738; border-radius:15px 5px 15px 5px;">                                    
-                                    MySchoolPortal
+                                    Online School Portal
                                     </span> – Where Management Meets Innovation.
                             </h3>
                             <div class="banner__btn-two" data-aos="fade-right" data-aos-delay="600">
-                                <a href="/school/school/" class="btn arrow-btn">Access my Portal <img src="assets/img/icons/right_arrow.svg" alt="img" class="injectable"></a>
+                                <a href="/school/school/" class="btn arrow-btn">Access My Portal <img src="assets/img/icons/right_arrow.svg" alt="img" class="injectable"></a>
                                 <a href="../../watch.html?v=b2Az7_lLh3g" class="play-btn popup-video"><i class="fas fa-play"></i> Watch Our <br> Class Demo</a>
                             </div>
                         </div>
@@ -105,8 +105,8 @@
                     <div class="col-xl-6 col-lg-8">
                         <div class="section__title text-center mb-40">
                             <span class="sub-title">Our Top Features</span>
-                            <h2 class="title">Unlock Success with MySchoolPortal</h2>
-                            <p>Embark on a journey of educational excellence with MySchoolPortal. Our cutting-edge platform is designed to streamline school management, empower teachers, and engage parents, ensuring every student reaches their full potential. Experience the future of education</p>
+                            <h2 class="title">Unlock Success with onlineSchoolPortal</h2>
+                            <p>Embark on a journey of educational excellence with onlineSchoolPortal. Our cutting-edge platform is designed to streamline school management, empower teachers, and engage parents, ensuring every student reaches their full potential. Experience the future of education</p>
                         </div>
                     </div>
                 </div>
@@ -203,7 +203,7 @@
                                     Solution, now in One Place
                                 </h2>
                             </div>
-                            <p class="desc">Experience streamlined school management with MySchoolPortal. From smart administration to instant grading, our platform enhances efficiency, saving you time and resources.</p>
+                            <p class="desc">Experience streamlined school management with onlineSchoolPortal. From smart administration to instant grading, our platform enhances efficiency, saving you time and resources.</p>
                             <ul class="about__info-list list-wrap">
                                 <li class="about__info-list-item">
                                     <i class="flaticon-angle-right"></i>
@@ -294,7 +294,7 @@
                                         </svg>
                                         Schools
                                     </span>
-                               use MySchoolPortal to simplifu their management.</h2>
+                               use Online School Portal to simplify their management.</h2>
                             </div>
                             <div class="fact__item-wrap">
                                 <div class="fact__item">
@@ -505,7 +505,7 @@
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="footer__widget">
                             <div class="logo mb-35">
-                                <a href="index.html"><img src="assets/img/logo/secondary_logo.png" width="200px"width="200px"width="200px"alt="img"></a>
+                                <a href="index.php"><img src="assets/img/logo/secondary_logo.png" width="200px"width="200px"width="200px"alt="img"></a>
                             </div>
                             <div class="footer__content">
                                 <p>when an unknown printer took galley of type and scrambled it to make pspecimen bookt has.</p>
@@ -592,7 +592,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-7">
                         <div class="copy-right-text">
-                            <p>© 2010-2024 skillgro.com. All rights reserved.</p>
+                            <p>© 2010-2024 Online School Portal.com. All rights reserved.</p>
                         </div>
                     </div>
                     <div class="col-md-5">

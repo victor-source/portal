@@ -14,7 +14,7 @@
                             <h3 class="title">Student Login</h3>
                             <nav class="breadcrumb">
                                 <span property="itemListElement" typeof="ListItem">
-                                    <a href="index.html">Home</a>
+                                    <a href="index.php">Home</a>
                                 </span>
                                 <span class="breadcrumb-separator"><i class="fas fa-angle-right"></i></span>
                                 <span property="itemListElement" typeof="ListItem">Login</span>
@@ -91,7 +91,7 @@
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="footer__widget">
                             <div class="logo mb-35">
-                                <a href="index.html"><img src="assets/img/logo/secondary_logo.svg" alt="img"></a>
+                                <a href="index.php"><img src="assets/img/logo/secondary_logo.svg" alt="img"></a>
                             </div>
                             <div class="footer__content">
                                 <p>when an unknown printer took galley of type and scrambled it to make pspecimen bookt has.</p>
@@ -178,7 +178,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-7">
                         <div class="copy-right-text">
-                            <p>© 2010-2024 skillgro.com. All rights reserved.</p>
+                            <p>© 2010-2024 Online School Portal.com. All rights reserved.</p>
                         </div>
                     </div>
                     <div class="col-md-5">

@@ -4,10 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>My School Portal</title>
-    <meta name="description" content="SkillGro - Online Courses & Education Template">
+    <title>Online School Portal</title>
+    <meta name="description" content="Online School POrtal - Best website for your Online Courses & Education">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
     <!-- Place favicon.ico in the root directory -->
 
@@ -16,7 +15,7 @@
     <link rel="stylesheet" href="assets/css/animate.min.css">
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-    <link rel="stylesheet" href="assets/css/flaticon-skillgro.css">
+    <link rel="stylesheet" href="assets/css/flaticon-Online School Portal.css">
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
     <link rel="stylesheet" href="assets/css/default-icons.css">
     <link rel="stylesheet" href="assets/css/select2.min.css">
@@ -53,7 +52,7 @@
                     <div class="col-lg-6">
                         <ul class="tg-header__top-info list-wrap">
                             <li><img src="assets/img/icons/map_marker.svg" alt="Icon"> <span>Lagos, Nigeria</span></li>
-                            <li><img src="assets/img/icons/envelope.svg" alt="Icon"> <a href="mailto:info@myschoolportal.net">info@myschoolportal.net</a></li>
+                            <li><img src="assets/img/icons/envelope.svg" alt="Icon"> <a href="mailto:info@onlineSchoolportal.ng">info@onlineschoolportal.ng</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-6">
@@ -82,7 +81,7 @@
                         <div class="tgmenu__wrap">
                             <nav class="tgmenu__nav">
                                 <div class="logo">
-                                    <a href="index.html"><img src="assets/img/logo/logo.png" width="200px"width="200px"width="200px"alt="Logo"></a>
+                                    <a href="index.php"><img src="assets/img/logo/logo.png" width="200px"width="200px"width="200px"alt="Logo"></a>
                                 </div>
                                 <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-xl-flex">
                                     <ul class="navigation">
@@ -117,7 +116,7 @@
                             <nav class="tgmobile__menu-box">
                                 <div class="close-btn"><i class="tg-flaticon-close-1"></i></div>
                                 <div class="nav-logo">
-                                    <a href="index.html"><img src="assets/img/logo/logo.png" width="200px"width="200px"width="200px"alt="Logo"></a>
+                                    <a href="index.php"><img src="assets/img/logo/logo.png" width="200px"width="200px"width="200px"alt="Logo"></a>
                                 </div>
                                 <div class="tgmobile__search">
                                     <form action="#">
